@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "_id": "game1",
+            "image": "/images/image1.jpg",
+            "title": "Forza Horizon 4",
+            "description": "Best Open World Game you'll ever play",
+            "price": "60",
+            "edition": [
+                "Standard",
+                "Deluxe",
+                "Ultimate"
+            ]
+        },
+        {
+            "_id": "game2",
+            "image": "/images/image2.jpg",
+            "title": "Flight Simulator 2020",
+            "description": "Best Open World Game you'll ever play",
+            "price": "60",
+            "edition": [
+                "Standard",
+                "Deluxe",
+                "Ultimate"
+            ]
+        },
+        {
+            "_id": "game3",
+            "image": "/images/image3.jpg",
+            "title": "Need For Speed Heat",
+            "description": "Best Open World Game you'll ever play",
+            "price": "60",
+            "edition": [
+                "Standard",
+                "Deluxe",
+                "Ultimate"
+            ]
+        },
+        {
+            "_id": "game4",
+            "image": "/images/image4.jpg",
+            "title": "Witcher 3 GOTY",
+            "description": "Best Open World Game you'll ever play",
+            "price": "60",
+            "edition": [
+                "Standard",
+                "Deluxe",
+                "Ultimate"
+            ]
+        },
+        {
+            "_id": "game5",
+            "image": "/images/image5.jpg",
+            "title": "Watch Dogs 2",
+            "description": "Best Open World Game you'll ever play",
+            "price": "60",
+            "edition": [
+                "Standard",
+                "Deluxe",
+                "Ultimate"
+            ]
+        },
+        {
+            "_id": "game6",
+            "image": "/images/image6.jpg",
+            "title": "FIFA 19",
+            "description": "Best Open World Game you'll ever play",
+            "price": "60",
+            "edition": [
+                "Standard",
+                "Deluxe",
+                "Ultimate"
+            ]
+        }
+    ]
+}
