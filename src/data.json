@@ -8,7 +8,6 @@
             "price": "60",
             "edition": [
                 "Standard",
-                "Deluxe",
                 "Ultimate"
             ]
         },
@@ -17,7 +16,7 @@
             "image": "/images/image2.jpg",
             "title": "Flight Simulator 2020",
             "description": "Best Open World Game you'll ever play",
-            "price": "60",
+            "price": "58",
             "edition": [
                 "Standard",
                 "Deluxe",
@@ -29,11 +28,10 @@
             "image": "/images/image3.jpg",
             "title": "Need For Speed Heat",
             "description": "Best Open World Game you'll ever play",
-            "price": "60",
+            "price": "49.99",
             "edition": [
                 "Standard",
-                "Deluxe",
-                "Ultimate"
+                "Deluxe"
             ]
         },
         {
@@ -41,11 +39,10 @@
             "image": "/images/image4.jpg",
             "title": "Witcher 3 GOTY",
             "description": "Best Open World Game you'll ever play",
-            "price": "60",
+            "price": "45",
             "edition": [
                 "Standard",
-                "Deluxe",
-                "Ultimate"
+                "Deluxe"
             ]
         },
         {
@@ -53,7 +50,7 @@
             "image": "/images/image5.jpg",
             "title": "Watch Dogs 2",
             "description": "Best Open World Game you'll ever play",
-            "price": "60",
+            "price": "19.99",
             "edition": [
                 "Standard",
                 "Deluxe",
@@ -65,7 +62,7 @@
             "image": "/images/image6.jpg",
             "title": "FIFA 19",
             "description": "Best Open World Game you'll ever play",
-            "price": "60",
+            "price": "20",
             "edition": [
                 "Standard",
                 "Deluxe",
