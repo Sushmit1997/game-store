@@ -142,6 +142,10 @@ footer{
   background-color: #f0c040;
 }
 
+.button-primary:hover{
+  background-color: yellow;
+}
+
 
 /* ------------------------------ Filter Class ------------------------- */
 
@@ -154,4 +158,61 @@ footer{
 }
 .filter div {
   flex: 1;
+}
+
+
+/* ----------------------------- INdex.css --------------------- */
+
+.cart{
+  padding: 16px;
+  margin: 16px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cart-header{
+  border-bottom: 2px #c0c0c0;
+}
+
+.cart-items{
+  padding: 0px;
+  width: 100%;
+  list-style-type:none;
+}
+
+.cart-items img{
+  width: 5rem;
+}
+
+.cart-items li{
+  display: flex;
+}
+
+.cart-items li div{
+  padding: .5rem;
+}
+
+.cart-items li div:last-child{
+  flex: 1;
+}
+
+.remove-button{
+  height: 25px;
+}
+
+.right{
+  flex-grow: 1;
+}
+
+.proceed-container{
+  padding: 15px;
+}
+
+.total{
+  display: flex;
+  justify-content: space-between;
+}
+
+.total button{
+  float: right;
 }
